@@ -259,7 +259,7 @@ namespace Uyutov_isp_231_lab2
 
             switch (choice1)
             {
-                case "а":
+                case "a":
                     Console.WriteLine("Вы стретили дракона. Вам нужно отгадать его загадку: \"Кто не дышит, но живет; хоть не нужно — много пьет; и в жизни, и в смерти тело как лед.\" ");
                     string answer = Console.ReadLine().ToLower();
                     if (answer == "рыба")
