@@ -122,7 +122,7 @@ namespace Uyutov_isp_231_lab2
             }
 
             // Задание 7
-            Console.WriteLine("Введите день недели: ");
+            Console.WriteLine("Введите день недели: (1-7)");
             string den = Console.ReadLine().ToLower();
 
             switch (den)
