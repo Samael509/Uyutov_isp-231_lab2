@@ -322,7 +322,7 @@ namespace Uyutov_isp_231_lab2
         //static void TakeDamage(int damage)
         //{
             // отнимаем хп на величину урона
-           //ealth -= damage;
+           //health -= damage;
             // Вывод инфы о полученном уроне и текущем хп
             //Console.WriteLine($"Персонаж получил {damage} урона. Текущее здоровье: {health}.");
         //}
